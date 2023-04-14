@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# biol-230-eiyl
+Some exploratory data analysis on the dataset of the occurence of organisms
